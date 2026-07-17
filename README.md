@@ -361,8 +361,6 @@ Install the required ESP8266/ESP32 libraries, select your board, and upload the 
 
 # 📱 Screenshots
 
-> Place your screenshots inside a `screenshots/` folder.
-
 | Guided Setup | Dashboard  | Home  |
 |---|------------|--------------|
 |<img src="screenshots/setup.png" width="250"/>|<img src="screenshots/home.png" width="250"/>|<img src="screenshots/dashboard.png" width="250"/>|
