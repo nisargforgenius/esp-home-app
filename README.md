@@ -18,11 +18,11 @@ Unlike traditional IoT ecosystems that depend on external cloud services, this p
 
 The result is:
 
-- ⚡ Extremely low latency relay control
-- 🔒 Complete local privacy
-- 🌐 Works without Internet access
-- 📱 Native Android experience using Jetpack Compose
-- 🔄 Real-time synchronization across multiple clients
+-  Extremely low latency relay control
+-  Complete local privacy
+-  Works without Internet access
+-  Native Android experience using Jetpack Compose
+-  Real-time synchronization across multiple clients
 
 ---
 
@@ -97,12 +97,12 @@ ESP-App follows a **Local-First** architecture where every interaction happens d
 
 ### Advantages
 
-- ⚡ Relay switching in under 100 ms
-- 🔒 No cloud dependency
-- 🌐 Works even without Internet
-- 💰 Zero cloud hosting costs
-- 🔄 Instant synchronization through WebSockets
-- 🏠 Complete ownership of your smart home
+-  Relay switching in under 100 ms
+-  No cloud dependency
+-  Works even without Internet
+-  Zero cloud hosting costs
+-  Instant synchronization through WebSockets
+-  Complete ownership of your smart home
 
 ---
 
