@@ -384,13 +384,12 @@ Install the required ESP8266/ESP32 libraries, select your board, and upload the 
 ---
 
 # License
-
-This project is licensed under the MIT License.
-
+* **License:** This project is licensed under the [MIT License](./LICENSE)
 ---
 
 # Author
-
-Developed as a complete end-to-end IoT ecosystem combining modern Android development with embedded systems and real-time networking.
-
+* **Profile:** [@nisargforgenius](https://github.com/nisargforgenius)
+  
+| Developed as a complete end-to-end IoT ecosystem combining modern Android development with embedded systems and real-time networking. |
+---
 If you found this project useful, consider giving it a ⭐ on GitHub.
